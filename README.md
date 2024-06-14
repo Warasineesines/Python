@@ -21,4 +21,10 @@ Here are some of my projects created using Python.
   - Pay bills
   - Invesment
 
-04 - OOP : API
+**04 - [OOP : API](https://colab.research.google.com/drive/1J_fJ8TzhbTTLwU9dFNUHDoKcX6Uc-Hbx?usp=sharing)**
+- Star Wars
+
+**05 - [Sklearn : Churn data](https://colab.research.google.com/drive/1bbgEZq1XN_5gTWFSdGN0jiJYde3qdI-V?usp=sharing)**
+- model : logistic regression
+- file : churn.csv
+
